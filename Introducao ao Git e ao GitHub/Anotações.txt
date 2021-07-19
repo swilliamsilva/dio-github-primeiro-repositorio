@@ -1,0 +1,6 @@
+Anotacoes.txt - Bloco de Notas
+Link para download do Git https://git-scm.com/downloads
+O Git Basch é um terminal extendido para utilizar o uso do Git.
+
+
+
